@@ -9,7 +9,7 @@ and mobile using react native, both applications feature CRUD operations, as wel
 To set up the project on your local machine , please  follow the instructions  on this github repository
 [code source for application web](https://github.com/abderrahmaneosmani/weasydoo-nextjs "code source for application web")
 
-Setup Instruction Mobile
+## Setup Instruction Mobile
 
 To set up the project on your local machine , please  follow the instructions  on this github repository
 [code. source application mobile](https://github.com/abderrahmaneosmani/WeasydooApplication "code. source application mobile")
