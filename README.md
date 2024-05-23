@@ -37,12 +37,16 @@ session management, allowing you to keep track of authenticated users
 
 # Documentation application mobile 📲  
 
-**react-query** :
+#### react-query :
 react query simplify the way interact asynchronous state, and let me write clean code, And avoiding bugs of use effect hook
-**async-storage** :
+
+
+#### async-storage :
  I utilized async-storage to  persist  user across the app
 and provide simple key value storage 
-**React-Context** :
+
+#### React-Context :
 I utilized react context in my application to avoid  drop drilling and avoid passing f props through multiple layer 
-**React Navigation** :
+
+#### React Navigation :
 I utilized react Navigation to manage routes has, has declarative api to make easy manage navigation 
